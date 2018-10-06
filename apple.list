@@ -1,13 +1,38 @@
-DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,mzstatic.com // App Store & iTunes Images
+URL-REGEX,*apple.com/cn
+
+PROCESS-NAME,storedownloadd // Mac App Store
+
+USER-AGENT,%E5%9C%B0%E5%9B%BE* // Maps
+USER-AGENT,%E8%AE%BE%E7%BD%AE* // Settings
+USER-AGENT,*com.apple.mobileme.fmip1
+USER-AGENT,*WeatherFoundation*
+USER-AGENT,AssistantServices* //Siri
+USER-AGENT,MobileAsset*
+USER-AGENT,Siri*
+
+USER-AGENT,cloudd* // iCloud
+USER-AGENT,com.apple.appstored* // iOS App Store
+USER-AGENT,com.apple.geod*
+USER-AGENT,com.apple.Maps
+USER-AGENT,FindMyFriends*
+USER-AGENT,FindMyiPhone*
+USER-AGENT,FMDClient*
+USER-AGENT,FMFD*
+USER-AGENT,fmflocatord*
+USER-AGENT,geod*
+USER-AGENT,locationd*
+USER-AGENT,Maps*
+
+DOMAIN,guzzoni.apple.com
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
-DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,itunes.apple.com
-DOMAIN-SUFFIX,lookup-api.apple.com // Dictionary
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,lookup-api.apple.com
 DOMAIN-SUFFIX,me.com
-PROCESS-NAME,storedownloadd // Mac App Store
-USER-AGENT,com.apple.appstored* // iOS App Store
+DOMAIN-SUFFIX,mzstatic.com
