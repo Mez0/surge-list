@@ -10,7 +10,7 @@ USER-AGENT,AssistantServices* //Siri
 USER-AGENT,MobileAsset*
 USER-AGENT,Siri*
 
-USER-AGENT,cloudd* // iCloud
+//USER-AGENT,cloudd* // iCloud
 USER-AGENT,com.apple.appstored* // iOS App Store
 USER-AGENT,com.apple.geod*
 USER-AGENT,com.apple.Maps
@@ -29,7 +29,7 @@ DOMAIN-SUFFIX,apple.co
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,icloud.com
+//DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,itunes.com
