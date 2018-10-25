@@ -2,6 +2,10 @@
 USER-AGENT,MApi*
 USER-AGENT,MicroMessenger*
 USER-AGENT,WeChat*
+# Video
+DOMAIN-KEYWORD,bilibili
+DOMAIN-KEYWORD,iqiyi
+DOMAIN-KEYWORD,douyu
 # Ali
 DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,taobao
