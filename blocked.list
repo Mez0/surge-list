@@ -470,6 +470,7 @@ DOMAIN,news-events.apple.com
 DOMAIN,apple.comscoreresearch.com
 # > Google
 DOMAIN-SUFFIX,abc.xyz
+DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,dialogflow.com
