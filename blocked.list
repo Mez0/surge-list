@@ -1,3 +1,10 @@
+# > Tech & Developer (Maintained by Mes0)
+DOMAIN-SUFFIX,asyncdisplaykit.org
+DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,hackingwithswift.com
+DOMAIN-SUFFIX,raywenderlich.com
+DOMAIN-SUFFIX,wakatime.com
+DOMAIN-SUFFIX,nshipster.com
 # (DNS Cache Pollution Protection)
 # > Google
 DOMAIN-SUFFIX,appspot.com
@@ -28,6 +35,7 @@ DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,rocksdb.org
 DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,facebook
 IP-CIDR,3.123.36.126/32,no-resolve
 IP-CIDR,35.157.215.84/32,no-resolve
@@ -47,6 +55,10 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-KEYWORD,twitter
+# > Twitch
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-KEYWORD,ttvnw,Proxy
 # > Telegram
 DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,tdesktop.com
@@ -502,6 +514,7 @@ DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-KEYWORD,youtube
 # > Microsoft
 # >> Microsoft OneDrive
 DOMAIN-SUFFIX,1drv.com
@@ -512,6 +525,15 @@ DOMAIN-SUFFIX,onedrive.com
 DOMAIN-SUFFIX,storage.live.com
 DOMAIN-SUFFIX,storage.msn.com
 DOMAIN,oneclient.sfx.ms
+# > Porn
+DOMAIN-SUFFIX,pornpros.com,Proxy
+DOMAIN-SUFFIX,pornhub.com,Proxy
+DOMAIN-SUFFIX,phncdn.com,Proxy
+DOMAIN-SUFFIX,v2porn.com,Proxy
+DOMAIN-SUFFIX,xtube.com,Proxy
+DOMAIN-SUFFIX,xvideos.com,Proxy
+DOMAIN-SUFFIX,dmm.co.jp,Proxy
+DOMAIN-SUFFIX,myfreecams.com,Proxy
 # > Other
 DOMAIN-SUFFIX,0rz.tw
 DOMAIN-SUFFIX,4bluestones.biz
