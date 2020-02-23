@@ -55,6 +55,8 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-KEYWORD,twitter
+# > Mixer
+DOMAIN-SUFFIX,mixer.com
 # > Twitch
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
